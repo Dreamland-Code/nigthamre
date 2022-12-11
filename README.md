@@ -1,2 +1,2 @@
 # nigthamre
-A horror game
+A horror game, alias nigthmare
